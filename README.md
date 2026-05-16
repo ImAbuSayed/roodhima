@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/roodhima/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Roodhima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roodhima/) |
+| **Get License** | [Get a Licensing Quote for Roodhima](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/roodhima/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
